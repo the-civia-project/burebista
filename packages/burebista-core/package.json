@@ -1,0 +1,13 @@
+{
+  "name": "burebista-core",
+  "version": "0.0.1",
+  "author": "Alexandru Ifrim <me@aifrim.com>",
+  "license": "MIT",
+  "type": "module",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+  }
+}

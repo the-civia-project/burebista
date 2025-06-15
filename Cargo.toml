@@ -1,0 +1,4 @@
+[workspace]
+resolver = "2"
+
+members = ["packages/burebista-core", "packages/burebista"]

@@ -1,0 +1,23 @@
+{
+    "name": "burebista",
+    "version": "0.0.1",
+    "description": "Full-stack framework js & rust",
+    "keywords": [
+        "full-stack",
+        "framework",
+        "js",
+        "javascript",
+        "ts",
+        "typescript",
+        "rs",
+        "rust"
+    ],
+    "author": "Alexandru Ifrim <me@aifrim.com>",
+    "license": "MIT",
+    "type": "module",
+    "main": "index.ts",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "devDependencies": {}
+}

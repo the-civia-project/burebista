@@ -1,0 +1,9 @@
+{
+  "name": "burebista",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+  }
+}

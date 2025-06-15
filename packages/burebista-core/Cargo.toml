@@ -1,0 +1,15 @@
+[package]
+name = "burebista-core"
+version = "0.1.0"
+edition = "2024"
+
+[lib]
+
+[dependencies]
+swc = "26.0.0"
+swc_common = "12.0.1"
+swc_ecma_ast = "12.0.0"
+swc_ecma_parser = "15.0.1"
+swc_ecma_transforms_typescript = "18.0.0"
+swc_ecma_visit = "12.0.0"
+swc_ecma_lexer = "15.0.2"
